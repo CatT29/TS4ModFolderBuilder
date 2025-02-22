@@ -36,7 +36,7 @@ Copy
 git clone https://github.com/YourUsername/Sims4ModFolderBuilder.git
 cd Sims4ModFolderBuilder
 Ensure Python 3 is Installed:
-This application requires Python 3.6+ (Tkinter is included with most Python distributions).
+This application requires Python 3.7.0 (Tkinter is included with most Python distributions).
 
 Install Dependencies (if needed):
 Most dependencies are part of the standard library. If you require additional libraries, you can install them via pip:
