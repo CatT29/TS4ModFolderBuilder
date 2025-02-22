@@ -41,9 +41,6 @@ This application requires Python 3.7.0 (Tkinter is included with most Python dis
 Install Dependencies (if needed):
 Most dependencies are part of the standard library. If you require additional libraries, you can install them via pip:
 
-bash
-Copy
-pip install -r requirements.txt
 Usage
 Run the Application:
 
@@ -51,7 +48,8 @@ From the project directory, run:
 
 bash
 Copy
-python mod_builder.py
+python TS4ModFolderBuilder.py
+
 Using the GUI:
 
 Folder Name & File Name: Input your desired names. Optionally, check "Match file name to folder name" to keep both names in sync.
