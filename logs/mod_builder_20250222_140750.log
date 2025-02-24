@@ -1,9 +1,0 @@
-2025-02-22 14:07:50,540 [DEBUG] Loading settings...
-2025-02-22 14:07:50,541 [INFO] Settings loaded successfully
-2025-02-22 14:07:50,541 [INFO] Starting Sims 4 Mod Folder Builder
-2025-02-22 14:07:50,541 [INFO] Log file: logs\mod_builder_20250222_140750.log
-2025-02-22 14:07:59,183 [INFO] Creating mod in folder: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\UYHTRSHFTDGZGHYRYETASZHRE
-2025-02-22 14:07:59,184 [DEBUG] Created modinfo.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\UYHTRSHFTDGZGHYRYETASZHRE\modinfo.py
-2025-02-22 14:07:59,184 [DEBUG] Created __init__.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\UYHTRSHFTDGZGHYRYETASZHRE\Scripts\__init__.py
-2025-02-22 14:07:59,188 [DEBUG] Created script file at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\UYHTRSHFTDGZGHYRYETASZHRE\Scripts\UYHTRSHFTDGZGHYRYETASZHRE.py
-2025-02-22 14:08:09,355 [DEBUG] File location prompt created successfully

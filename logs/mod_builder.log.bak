@@ -1,0 +1,22 @@
+2025-02-24 14:21:27,269 [DEBUG] Loading settings...
+2025-02-24 14:21:27,269 [INFO] Settings loaded successfully
+2025-02-24 14:21:27,270 [INFO] Starting Sims 4 Mod Folder Builder
+2025-02-24 14:21:27,270 [INFO] Log file: logs\mod_builder.log
+2025-02-24 14:21:36,803 [INFO] Creating mod in folder: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\gyhra
+2025-02-24 14:21:36,803 [DEBUG] Created modinfo.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\gyhra\modinfo.py
+2025-02-24 14:21:36,804 [DEBUG] Created __init__.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\gyhra\Scripts\__init__.py
+2025-02-24 14:21:36,806 [DEBUG] Created script file at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\gyhra\Scripts\gyhra.py
+2025-02-24 14:21:36,807 [DEBUG] Created tuning file at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\gyhra\Tuning\gyhra.xml
+2025-02-24 14:21:36,807 [DEBUG] Created package file at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\gyhra\gyhra.package
+2025-02-24 14:21:39,073 [DEBUG] File location prompt created successfully
+2025-02-24 14:22:22,085 [DEBUG] Settings window buttons created successfully
+2025-02-24 14:22:22,085 [DEBUG] All settings widgets created successfully
+2025-02-24 14:22:27,594 [INFO] Settings window created successfully
+2025-02-24 14:22:27,594 [INFO] Settings window opened successfully
+2025-02-24 14:23:29,773 [DEBUG] Settings window buttons created successfully
+2025-02-24 14:23:29,773 [DEBUG] All settings widgets created successfully
+2025-02-24 14:23:30,778 [DEBUG] Opening advanced settings window
+2025-02-24 14:29:53,007 [INFO] Settings window created successfully
+2025-02-24 14:29:53,007 [INFO] Settings window opened successfully
+2025-02-24 14:29:54,974 [INFO] Closing application...
+2025-02-24 14:29:54,994 [INFO] Application closed.

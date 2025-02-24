@@ -1,9 +1,0 @@
-2025-02-22 13:35:16,051 [DEBUG] Loading settings...
-2025-02-22 13:35:16,057 [INFO] Settings loaded successfully
-2025-02-22 13:35:16,058 [INFO] Starting Sims 4 Mod Folder Builder
-2025-02-22 13:35:16,058 [INFO] Log file: logs\mod_builder_20250222_133516.log
-2025-02-22 13:35:17,459 [CRITICAL] Fatal error: ModBuilderApp() takes no arguments
-Traceback (most recent call last):
-  File "TS4ModFolderBuilder.py", line 984, in <module>
-    app = ModBuilderApp(root)
-TypeError: ModBuilderApp() takes no arguments
