@@ -1,0 +1,17 @@
+2025-02-22 12:18:10,096 [DEBUG] Loading settings...
+2025-02-22 12:18:10,097 [INFO] Settings loaded successfully
+2025-02-22 12:18:10,097 [INFO] Starting Sims 4 Mod Folder Builder
+2025-02-22 12:18:10,097 [INFO] Log file: logs\mod_builder_20250222_121810.log
+2025-02-22 12:18:14,102 [ERROR] Error in generate_mod: 'ModBuilderApp' object has no attribute 'mod_folder_var'
+2025-02-22 12:18:22,696 [ERROR] Error in generate_mod: 'ModBuilderApp' object has no attribute 'mod_folder_var'
+2025-02-22 12:18:22,697 [INFO] Creating mod in folder: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\hjfjuykhfku
+2025-02-22 12:18:22,699 [DEBUG] Created modinfo.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\hjfjuykhfku\modinfo.py
+2025-02-22 12:18:22,699 [DEBUG] Created __init__.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\hjfjuykhfku\Scripts\__init__.py
+2025-02-22 12:18:22,700 [DEBUG] Created script file at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\hjfjuykhfku\Scripts\hjfjuykhfku.py
+2025-02-22 12:18:24,708 [DEBUG] File location prompt created successfully
+2025-02-22 12:18:26,866 [DEBUG] Settings window buttons created successfully
+2025-02-22 12:18:26,866 [DEBUG] All settings widgets created successfully
+2025-02-22 12:18:32,726 [INFO] Settings window created successfully
+2025-02-22 12:18:32,726 [INFO] Settings window opened successfully
+2025-02-22 12:18:35,234 [INFO] Closing application...
+2025-02-22 12:18:35,251 [INFO] Application closed.

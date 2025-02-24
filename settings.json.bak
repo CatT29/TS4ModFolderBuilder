@@ -1,0 +1,19 @@
+{
+    "main_mods_folder": "C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods",
+    "generated_mods_enabled": false,
+    "temp_mod_timer": "Disabled",
+    "naming_rules": {
+        "no_spaces_folders": false,
+        "no_spaces_files": false,
+        "convert_spaces_underscores": true
+    },
+    "show_open_location_prompt": true,
+    "show_save_success": true,
+    "backup_options": {
+        "always_backup": false,
+        "create_backup": false
+    },
+    "init_py_in_scripts": true,
+    "mods_folder": "C:\\Users\\HorrorChick\\Documents\\Electronic Arts\\The Sims 4\\Mods",
+    "temp_mods_folder": "C:/Users/HorrorChick/Downloads"
+}

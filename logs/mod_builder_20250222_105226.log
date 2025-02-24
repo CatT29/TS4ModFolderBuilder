@@ -1,0 +1,11 @@
+2025-02-22 10:52:26,256 [DEBUG] Loading settings...
+2025-02-22 10:52:26,257 [INFO] Settings loaded successfully
+2025-02-22 10:52:26,257 [INFO] Starting Sims 4 Mod Folder Builder
+2025-02-22 10:52:26,257 [INFO] Log file: logs\mod_builder_20250222_105226.log
+2025-02-22 10:52:26,348 [CRITICAL] Fatal error: 'ModBuilderApp' object has no attribute 'create_variables'
+Traceback (most recent call last):
+  File "TS4ModFolderBuilder.py", line 721, in <module>
+    app = ModBuilderApp(root)
+  File "TS4ModFolderBuilder.py", line 595, in __init__
+    self.create_variables()
+AttributeError: 'ModBuilderApp' object has no attribute 'create_variables'

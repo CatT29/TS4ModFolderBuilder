@@ -1,0 +1,16 @@
+2025-02-22 14:29:39,712 [DEBUG] Loading settings...
+2025-02-22 14:29:39,713 [INFO] Settings loaded successfully
+2025-02-22 14:29:39,713 [INFO] Starting Sims 4 Mod Folder Builder
+2025-02-22 14:29:39,713 [INFO] Log file: logs\mod_builder_20250222_142939.log
+2025-02-22 14:29:47,864 [INFO] Creating mod in folder: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fguikcfdiuyo68ctu
+2025-02-22 14:29:47,864 [DEBUG] Created modinfo.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fguikcfdiuyo68ctu\modinfo.py
+2025-02-22 14:29:47,865 [DEBUG] Created __init__.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fguikcfdiuyo68ctu\Scripts\__init__.py
+2025-02-22 14:29:47,867 [DEBUG] Created script file at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fguikcfdiuyo68ctu\Scripts\fguikcfdiuyo68ctu.py
+2025-02-22 14:29:51,555 [DEBUG] File location prompt created successfully
+2025-02-22 14:30:40,893 [DEBUG] Settings window buttons created successfully
+2025-02-22 14:30:40,893 [DEBUG] All settings widgets created successfully
+2025-02-22 14:30:41,927 [DEBUG] Opening advanced settings window
+2025-02-22 14:30:44,435 [INFO] Settings window created successfully
+2025-02-22 14:30:44,436 [INFO] Settings window opened successfully
+2025-02-22 14:36:00,482 [INFO] Closing application...
+2025-02-22 14:36:00,497 [INFO] Application closed.

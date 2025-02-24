@@ -1,0 +1,11 @@
+2025-02-22 11:25:50,487 [INFO] Starting Sims 4 Mod Folder Builder
+2025-02-22 11:25:50,487 [INFO] Log file: logs\mod_builder_20250222_112550.log
+2025-02-22 11:25:50,554 [CRITICAL] Fatal error: 'ModBuilderApp' object has no attribute 'open_settings'
+Traceback (most recent call last):
+  File "TS4ModFolderBuilder.py", line 763, in <module>
+    app = ModBuilderApp(root)
+  File "TS4ModFolderBuilder.py", line 618, in __init__
+    self.create_widgets()
+  File "TS4ModFolderBuilder.py", line 664, in create_widgets
+    tk.Button(self.root, text="Settings", font=("Arial", 10), command=self.open_settings, width=20).pack(pady=10)
+AttributeError: 'ModBuilderApp' object has no attribute 'open_settings'

@@ -1,0 +1,13 @@
+2025-02-22 10:50:07,848 [DEBUG] Loading settings...
+2025-02-22 10:50:07,848 [INFO] Settings loaded successfully
+2025-02-22 10:50:07,848 [INFO] Starting Sims 4 Mod Folder Builder
+2025-02-22 10:50:07,850 [INFO] Log file: logs\mod_builder_20250222_105007.log
+2025-02-22 10:50:07,947 [CRITICAL] Fatal error: 'ModBuilderApp' object has no attribute 'generate_mod'
+Traceback (most recent call last):
+  File "TS4ModFolderBuilder.py", line 1048, in <module>
+    app = ModBuilderApp(root)
+  File "TS4ModFolderBuilder.py", line 596, in __init__
+    self.create_widgets()
+  File "TS4ModFolderBuilder.py", line 832, in create_widgets
+    command=self.generate_mod,
+AttributeError: 'ModBuilderApp' object has no attribute 'generate_mod'

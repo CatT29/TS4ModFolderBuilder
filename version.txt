@@ -1,0 +1,6 @@
+# fileversion: 1.0.0.0
+# productversion: 1.0
+# productname: TS4 Mods Folder Builder
+# companyname: HorrorChick95
+# filedescription: A tool for organizing TS4 mods
+# legalcopyright: Copyright © HorrorChick95

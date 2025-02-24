@@ -1,0 +1,13 @@
+2025-02-22 10:55:50,769 [DEBUG] Loading settings...
+2025-02-22 10:55:50,770 [INFO] Settings loaded successfully
+2025-02-22 10:55:50,770 [INFO] Starting Sims 4 Mod Folder Builder
+2025-02-22 10:55:50,770 [INFO] Log file: logs\mod_builder_20250222_105550.log
+2025-02-22 10:55:50,855 [CRITICAL] Fatal error: 'ModBuilderApp' object has no attribute 'on_folder_name_change'
+Traceback (most recent call last):
+  File "TS4ModFolderBuilder.py", line 634, in <module>
+    app = ModBuilderApp(root)
+  File "TS4ModFolderBuilder.py", line 595, in __init__
+    self.create_variables()  # Call create_variables() properly
+  File "TS4ModFolderBuilder.py", line 611, in create_variables
+    self.folder_name_var.trace_add("write", self.on_folder_name_change)
+AttributeError: 'ModBuilderApp' object has no attribute 'on_folder_name_change'

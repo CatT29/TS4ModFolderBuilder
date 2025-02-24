@@ -1,0 +1,16 @@
+2025-02-22 12:22:16,102 [DEBUG] Loading settings...
+2025-02-22 12:22:16,103 [INFO] Settings loaded successfully
+2025-02-22 12:22:16,103 [INFO] Starting Sims 4 Mod Folder Builder
+2025-02-22 12:22:16,103 [INFO] Log file: logs\mod_builder_20250222_122216.log
+2025-02-22 12:22:25,149 [INFO] Creating mod in folder: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\hrezehrrezdxhrewa
+2025-02-22 12:22:25,149 [DEBUG] Created modinfo.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\hrezehrrezdxhrewa\modinfo.py
+2025-02-22 12:22:25,151 [DEBUG] Created __init__.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\hrezehrrezdxhrewa\Scripts\__init__.py
+2025-02-22 12:22:25,153 [DEBUG] Created script file at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\hrezehrrezdxhrewa\Scripts\hrezehrrezdxhrewa.py
+2025-02-22 12:22:28,549 [DEBUG] File location prompt created successfully
+2025-02-22 12:23:12,726 [INFO] Creating mod in folder: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\testestest3
+2025-02-22 12:23:12,727 [DEBUG] Created modinfo.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\testestest3\modinfo.py
+2025-02-22 12:23:12,728 [DEBUG] Created __init__.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\testestest3\Scripts\__init__.py
+2025-02-22 12:23:12,728 [DEBUG] Created script file at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\testestest3\Scripts\testestest3.py
+2025-02-22 12:23:15,093 [DEBUG] File location prompt created successfully
+2025-02-22 12:23:21,075 [INFO] Closing application...
+2025-02-22 12:23:21,096 [INFO] Application closed.

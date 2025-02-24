@@ -1,0 +1,24 @@
+2025-02-22 13:24:00,459 [DEBUG] Loading settings...
+2025-02-22 13:24:00,459 [INFO] Settings loaded successfully
+2025-02-22 13:24:00,459 [INFO] Starting Sims 4 Mod Folder Builder
+2025-02-22 13:24:00,460 [INFO] Log file: logs\mod_builder_20250222_132400.log
+2025-02-22 13:24:08,580 [INFO] Creating mod in folder: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\jyfgujtydftidre6d346w
+2025-02-22 13:24:08,581 [ERROR] Error in generate_mod: 'ModBuilderApp' object has no attribute 'create_modinfo_py'
+2025-02-22 13:24:08,581 [ERROR] Error in generate_mod:
+Traceback (most recent call last):
+  File "TS4ModFolderBuilder.py", line 81, in wrapper
+    return func(*args, **kwargs)
+  File "TS4ModFolderBuilder.py", line 1130, in generate_mod
+    self.create_modinfo_py(full_folder_path, cleaned_file_name, created_files)
+AttributeError: 'ModBuilderApp' object has no attribute 'create_modinfo_py'
+2025-02-22 13:24:23,859 [INFO] Creating mod in folder: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\jyfgujtydftidre6d346w
+2025-02-22 13:24:23,861 [ERROR] Error in generate_mod: 'ModBuilderApp' object has no attribute 'create_modinfo_py'
+2025-02-22 13:24:23,861 [ERROR] Error in generate_mod:
+Traceback (most recent call last):
+  File "TS4ModFolderBuilder.py", line 81, in wrapper
+    return func(*args, **kwargs)
+  File "TS4ModFolderBuilder.py", line 1130, in generate_mod
+    self.create_modinfo_py(full_folder_path, cleaned_file_name, created_files)
+AttributeError: 'ModBuilderApp' object has no attribute 'create_modinfo_py'
+2025-02-22 13:29:12,328 [INFO] Closing application...
+2025-02-22 13:29:12,348 [INFO] Application closed.

@@ -1,0 +1,21 @@
+2025-02-22 14:26:47,829 [DEBUG] Loading settings...
+2025-02-22 14:26:47,829 [INFO] Settings loaded successfully
+2025-02-22 14:26:47,830 [INFO] Starting Sims 4 Mod Folder Builder
+2025-02-22 14:26:47,830 [INFO] Log file: logs\mod_builder_20250222_142647.log
+2025-02-22 14:27:06,538 [INFO] Creating mod in folder: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fyhjfjyrrkcxuyudkd6
+2025-02-22 14:27:06,539 [DEBUG] Created modinfo.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fyhjfjyrrkcxuyudkd6\modinfo.py
+2025-02-22 14:27:06,540 [DEBUG] Created __init__.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fyhjfjyrrkcxuyudkd6\Scripts\__init__.py
+2025-02-22 14:27:06,541 [DEBUG] Created script file at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fyhjfjyrrkcxuyudkd6\Scripts\fyhjfjyrrkcxuyudkd6.py
+2025-02-22 14:27:06,542 [DEBUG] Created modinfo.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fyhjfjyrrkcxuyudkd6\modinfo.py
+2025-02-22 14:27:06,542 [DEBUG] Created __init__.py at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fyhjfjyrrkcxuyudkd6\Scripts\__init__.py
+2025-02-22 14:27:06,543 [DEBUG] Created script file at: C:/Users/HorrorChick/Documents/Electronic Arts/The Sims 4/Mods\fyhjfjyrrkcxuyudkd6\Scripts\fyhjfjyrrkcxuyudkd6.py
+2025-02-22 14:27:06,543 [ERROR] Error in generate_mod: 'ModBuilderApp' object has no attribute 'clear_input_fields'
+2025-02-22 14:27:06,543 [ERROR] Error in generate_mod:
+Traceback (most recent call last):
+  File "TS4ModFolderBuilder.py", line 82, in wrapper
+    return func(*args, **kwargs)
+  File "TS4ModFolderBuilder.py", line 1041, in generate_mod
+    self.clear_input_fields()
+AttributeError: 'ModBuilderApp' object has no attribute 'clear_input_fields'
+2025-02-22 14:27:13,766 [INFO] Closing application...
+2025-02-22 14:27:13,783 [INFO] Application closed.
